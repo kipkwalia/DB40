@@ -1,1 +1,4 @@
-# DB40
+# HOUSING APPLICATION MANAGEMENT SYSTEM DATABASE
+The housing application management system is designed
+to allow the managing of housing applications in a more streamline process. The aim is initially to forge the bridge between administering managing house allocations with potentially appropriate residence in the form of applications by providing a transparent user-friendly and easily efficient system.
+The housing application management system leverages the database to support housing authorities, property managers, applications, and multiple stakeholders, such as the company and shareholders by managing all its interactions in one simplified unified platform . Reducing errors as well as enhancing the experience for both applications between residence and administration wish to seek clarity from inefficient manual systems, such as bookkeeping.
